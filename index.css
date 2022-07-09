@@ -1,0 +1,21 @@
+body {
+    background-image: url('img/crumpled-gray-grid-paper-textured-background-2021-09-03-04-15-50-utc.jpg') ;
+    background-size: 50%;
+    font-family: 'Roboto Mono', serif;
+
+}
+
+main {
+    margin: auto;
+    margin-top: 5%;
+    width: 60%;
+}
+
+footer {
+    margin: auto;
+    width: 60%;
+}
+
+.navStyle {
+    font-size: x-large;
+}
